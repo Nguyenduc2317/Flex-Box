@@ -1,0 +1,10 @@
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\ObjDir\2017\WindowsFormsApp1\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\ObjDir\2017\WindowsFormsApp1\FromDrawingToModel.Form1.resources
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\ObjDir\2017\WindowsFormsApp1\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\ObjDir\2017\WindowsFormsApp1\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\ObjDir\2017\WindowsFormsApp1\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\ObjDir\2017\WindowsFormsApp1\WindowsFormsApp1.exe
+C:\Users\NguyenVD2\Desktop\draw\WindowsFormsApp1\ObjDir\2017\WindowsFormsApp1\WindowsFormsApp1.pdb
